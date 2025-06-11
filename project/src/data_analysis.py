@@ -1,4 +1,4 @@
-""" Step 2: Analyse processed sleep data and provide insights and recommendations."""
+""" Step 2: Analyse processed sleep data and provide insights and recommendations. """
 
 import numpy as np # For numerical operations.
 import matplotlib.pyplot as plt # For plotting graphs.
