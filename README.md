@@ -131,7 +131,6 @@ This unlisted video demonstrates the Micro:bit setup and walks through the Pytho
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/FD2906/sleep-tracker
-cd project
 ```
 
 ### 2. Install requirements
@@ -145,7 +144,7 @@ pip install -r requirements.txt
 - Data Validation 
 
 ```bash
-python src/data_validation.py
+python project/src/data_validation.py
 ```
 
 - EDA & Stats
