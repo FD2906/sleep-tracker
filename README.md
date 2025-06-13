@@ -144,7 +144,7 @@ pip install -r requirements.txt
 - Data Validation 
 
 ```bash
-python project/src/data_validation.py
+python src/data_validation.py
 ```
 
 - EDA & Stats
